@@ -5,7 +5,7 @@ An AI-powered web application that predicts crop yield based on environmental an
 LIVE DEMO
 https://ai-powered-crop-yield-prediction-and-zfjl.onrender.com/
 
-PROTOTYPE
+PROTOTYPE VIDEO
 https://drive.google.com/file/d/1JHdsSIAiYYVUXg659YRbEyS4F5dl6IAb/view?usp=drive_link
 
 ## 📌 Project Overview
